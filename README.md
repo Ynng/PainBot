@@ -1,0 +1,1 @@
+joke discord bot that deletes any message except the :pain: emoji
